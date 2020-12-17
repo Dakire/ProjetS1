@@ -65,9 +65,10 @@ a:active, a:focus {
       list-style-position: inside;
   }
 
-.background{
+html{
 
   background-color: #242323;
+  font-family: 'B612', sans-serif;
 }
 #menu {
   padding:0;
