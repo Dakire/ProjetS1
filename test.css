@@ -156,12 +156,14 @@ html {
 	vertical-align: middle;
 	height: 350px;
 	margin-bottom: 100px;
+	margin-right: 75%
 }
 
 .imgmodeleg {
 	vertical-align: middle;
 	height: 350px;
-	margin-bottom: 2%;
+	margin-bottom: 100px;
+	margin-left: 75%
 }
 
 .center {
